@@ -33,3 +33,9 @@ bin
 
 # Environment files
 *.env
+
+
+#terraform 
+
+.terraform/*
+.terraform.lock.hcl
